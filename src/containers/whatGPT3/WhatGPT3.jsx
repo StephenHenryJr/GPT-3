@@ -4,7 +4,7 @@ import "./whatGPT3.css";
 
 const WhatGPT3 = () => {
   return (
-    <div className="gpt3__whatgpt3 section__margin" id="whatgpt3">
+    <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
       
       <div className="gpt3__whatgpt3-feature">
         <Feature
@@ -27,11 +27,11 @@ const WhatGPT3 = () => {
         />
         <Feature
           title="Knowledgebase"
-          text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+          text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments"
         />
         <Feature
           title="Education"
-          text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+          text="Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address."
         />
       </div>
     </div>
